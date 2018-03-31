@@ -1,4 +1,6 @@
 # testing
 just a testing repository. Hello everyone. I am new to Github
 
-Have a Nice Day!
+testing on GitBash...
+
+omg i feel so old 
